@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Futuristic AI chatbot with real-time conversations, daily free allowance, and premium intelligence features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
